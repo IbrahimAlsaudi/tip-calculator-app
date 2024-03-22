@@ -29,4 +29,4 @@ The Tip Calculator is a handy Android application built with Kotlin using Jetpac
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/tip-calculator.git
+   https://github.com/IbrahimAlsaudi/tip-calculator-app.git
