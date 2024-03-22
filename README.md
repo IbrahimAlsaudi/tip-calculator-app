@@ -14,8 +14,11 @@ The Tip Calculator is a handy Android application built with Kotlin using Jetpac
 
 ## Screenshots
 
-###
+### Dark Theme
 <img src="Screenshots/darktheme.png" width=500 height=1000>
+
+### Dark Theme
+<img src="Screenshots/lighttheme.png" width=500 height=1000>
 
 
 ## Getting Started
