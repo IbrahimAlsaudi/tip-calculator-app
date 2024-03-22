@@ -34,3 +34,11 @@ The Tip Calculator is a handy Android application built with Kotlin using Jetpac
 
    ```bash
    https://github.com/IbrahimAlsaudi/tip-calculator-app.git
+
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to:
+
+- Open an issue to report a bug or request a new feature.
+- Create a pull request to propose changes or fixes.
